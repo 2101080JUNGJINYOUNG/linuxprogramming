@@ -9,6 +9,7 @@ public:
     Container(int a);
     void set(int a, T1 b);
     T1 get(int i);
+    ~Container();
 };
 
 template <class T1>
@@ -22,6 +23,8 @@ T1 Container<T1>::get(int i){
     return data[i];
 }
 
+template <class T1>
+Container<T1>::~Container(){delete []data;}
 
 int main() {
     Container<char> c(26);
