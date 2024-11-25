@@ -4,4 +4,4 @@
 <img width="430" alt="image" src="https://github.com/user-attachments/assets/567b195e-ff91-4dac-a8b2-e56cb181912c">
 ---
 #### 결과
-![image](https://github.com/user-attachments/assets/bde10eef-59ef-4bf4-9351-d749f97aa64a)
+![image](https://github.com/user-attachments/assets/ae8994a3-6bba-45ab-a600-3653feb32700)
